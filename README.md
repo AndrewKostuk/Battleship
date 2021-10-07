@@ -1,1 +1,1 @@
-This is my battleship game from JetBrains Academy.
+This is my Battleship (https://en.wikipedia.org/wiki/Battleship_(game)) game from JetBrains Academy.
